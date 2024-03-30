@@ -1,0 +1,79 @@
+body {
+  height: 100vh;
+  width: 100vw;
+}
+.mybut {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: aliceblue;
+}
+.mybut2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 48%;
+  width: 48%;
+  background: rgb(6, 6, 78);
+  flex-wrap: wrap;
+  border-radius: 30px 30px 0 0;
+}
+button {
+  border-radius: 1px;
+  padding: 10px;
+  margin: 20px;
+}
+.one {
+  border: solid red;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-right: 80px;
+  color: red;
+  background: rgba(6, 6, 51, 0.699);
+}
+.two {
+  border-radius: 30px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-right: none;
+  color: white;
+  background: rgba(0, 128, 0, 0.651);
+}
+.three {
+  /* border: solid red; */
+  border-radius: 5px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-right: 80px;
+  color: white;
+  background: rgba(136, 213, 243, 0.925);
+}
+.four {
+  border: solid yellow;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding: 10px;
+  /* margin-right: 80px; */
+  color: white;
+  background: rgba(6, 6, 51, 0.699);
+}
+.fve {
+  border: solid purple;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-right: 80px;
+  color: purple;
+  background: rgba(6, 6, 51, 0.699);
+}
+.six {
+  border-radius: 30px;
+  padding-top: 5px;
+  padding: 10px;
+  margin-right: none;
+  color: white;
+  background: lawngreen;
+}
